@@ -8,7 +8,8 @@ The individual digits/operators are detected and predicted. The predictions are 
 
 ![demo0](https://github.com/ShettySach/Handwriting-Calculator/blob/main/Demo/demo0.gif)
 
-#### Contours boxes (green), predicted values (blue) and accuracy (red)
+### Contour boxes (green), predicted values (blue) and accuracies (red)
+
 ![demo0](https://github.com/ShettySach/Handwriting-Calculator/blob/main/Demo/Contours.png)
 
 
