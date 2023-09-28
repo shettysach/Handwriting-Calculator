@@ -257,7 +257,7 @@ root.title('HANDWRITING CALCULATOR')
 
 # Canvas for drawing numbers
 canv = ctk.CTkCanvas(root, width=width, height=height, bg='white')
-canv.grid(row=0, column=0, columnspan=2, padx=10, pady=10)
+canv.grid(row=0, column=0, columnspan=2, padx=10, pady=17)
 canv.bind("<B1-Motion>", paint)
 
 white = (255, 255, 255)
@@ -270,12 +270,12 @@ your_font = "Bahnschrift" #You can change the font here
 text_font = ctk.CTkFont(family=your_font, size=27)
 txt = ctk.CTkTextbox(root, exportselection=0,
               padx=10, pady=10, height=height//10, width=width//5, font=text_font)
-txt.grid(row=2, column=0, padx=0, pady=0)
+txt.grid(row=2, column=0, padx=0, pady=3)
 
 text_font = ctk.CTkFont(family=your_font, size=30, weight='bold')
 sol = ctk.CTkTextbox(root, exportselection=0,
               padx=10, pady=10, height=height//10, width=width//5, font=text_font, text_color='#3085ff')
-sol.grid(row=3, column=0, padx=0, pady=0)
+sol.grid(row=3, column=0, padx=0, pady=3)
 
 # Image box
 labimg = Image.open("Blank.png")
