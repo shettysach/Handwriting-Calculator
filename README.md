@@ -27,9 +27,9 @@ pip install -r requirements.txt
 ## Instructions -
 * Clone the repo and run the Jupyter notebook - **MAIN.ipynb** or run **MAIN.py**
 * You can use digits 0 to 9, operators + - × /, decimal point . and parentheses ()
-  ![demo0](https://github.com/ShettySach/Handwriting-Calculator/blob/main/Demo/demo1.gif)
+  ![demo1](https://github.com/ShettySach/Handwriting-Calculator/blob/main/Demo/demo1.gif)
 * You can also use ×× for exponentiation and // for floor division
-  ![demo0](https://github.com/ShettySach/Handwriting-Calculator/blob/main/Demo/demo2.gif)
+  ![demo2](https://github.com/ShettySach/Handwriting-Calculator/blob/main/Demo/demo2.gif)
 
 ### Data
 * [MNIST dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
