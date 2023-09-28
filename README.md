@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ## Instructions -
 * Clone the repo and run the Jupyter notebook - **MAIN.ipynb** or run **MAIN.py**
-* You can use digits `0 to 9`, operators `+ - × /', decimal point `.` and parentheses `( )`
+* You can use digits `0 to 9`, operators `+ - × /`, decimal point `.` and parentheses `( )`
   ![demo1](https://github.com/ShettySach/Handwriting-Calculator/blob/main/Demo/demo1.gif)
 * You can also use ×× for exponentiation and // for floor division
   ![demo2](https://github.com/ShettySach/Handwriting-Calculator/blob/main/Demo/demo2.gif)
