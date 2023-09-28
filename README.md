@@ -8,7 +8,7 @@ A calculator that uses handwritten digits and operators to calculate the result,
 
 ![demo0](https://github.com/ShettySach/Handwriting-Calculator/blob/main/Demo/demo0.gif)
 
-### Contour boxes (green), predicted values (blue) and accuracies (red)
+#### Contour boxes (green), predicted values (blue) and accuracies (red)
 
 ![demo0](https://github.com/ShettySach/Handwriting-Calculator/blob/main/Demo/Contours.png)
 
