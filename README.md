@@ -24,7 +24,7 @@ pip install -r requirements.txt
 * CustomTkinter
 
 ## Instructions -
-* Clone the repo and run the Jupyter notebook - **MAIN.ipynb** or run **MAIN.py**
+* Clone the repo and run the Jupyter notebook, **MAIN.ipynb** or run **MAIN.py**
 * You can use digits `0 to 9`, operators `+ - × /`, decimal point `.` and parentheses `( )`
   ![demo1](https://github.com/ShettySach/Handwriting-Calculator/assets/132273464/01ff0627-e2ad-4908-aa27-fd043d42668e)
 * You can also use ×× for exponentiation and // for floor division
