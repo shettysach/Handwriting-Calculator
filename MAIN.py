@@ -91,7 +91,6 @@ def solve_exp(preds):
         print(num_to_sym(ind) + " " + str(acc))
         
     try:
-        eval(ans)
         fin = eval(ans)
         fin = float(f"{fin:.4f}")
     
