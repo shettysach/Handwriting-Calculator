@@ -1,9 +1,9 @@
 # Handwriting-Calculator
 
 A calculator that uses handwritten digits and operators to calculate the result, using contour detection and CNN model prediction.
-- ***Tensorflow (Keras)*** is used to create, train and load the neural network model used for predictions.
-- ***CustomTKinter*** is used to provide the GUI.
-- ***OpenCV*** and ***Pillow (PIL)*** are used to read input from the GUI canvas and to obtain contours for individual digits/operators.
+- Tensorflow (Keras) is used to create, train and load the neural network model used for predictions.
+- CustomTKinter is used to provide the GUI.
+- OpenCV and Pillow (PIL) are used to read input from the GUI canvas and to obtain contours for individual digits/operators.
 - The individual digits/operators are detected and predicted. The predictions are combined into a string and evaluated to get the result.
 
 ![demo0](https://github.com/ShettySach/Handwriting-Calculator/assets/132273464/c8643ca4-2bad-46f7-ba14-13b01e7a9d2b)
